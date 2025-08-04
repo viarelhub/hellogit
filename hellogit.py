@@ -1,3 +1,3 @@
-print ("Hello Git!")
-print ("¿Que tal el curso?")
+print ("cambios Hello Git!")
+print ("cambios ¿Que tal el curso?")
 
